@@ -1,8 +1,8 @@
-Realizado por Nicolás Leiton 
+# Backend FastAPI
 
-Link de la API desplegada:    https://proyectofastapi-gwku.onrender.com/
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Documentacion Swagger autogenerada en https://proyectofastapi-gwku.onrender.com/docs
+API robusta desarrollada con **FastAPI** para la gestión de servicios backend, priorizando velocidad, validación de datos automática y documentación interactiva.
 
-Documentacion con ejemplos en Postman en el archivo llamado: Pruebas_Proyecto.postman_collection.json  (Despues de loggearse hay que guardar el token en la variable mytoken)
-
+### Realizado por Nicolás Leiton
